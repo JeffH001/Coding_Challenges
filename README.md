@@ -8,3 +8,7 @@ Some coding challenge answers and various other code.
 [SumLists](src/main/scala/SumLists.scala) - Functions to sum the composite integers from two lists of integers.
 
 [StackMin](src/main/scala/StackMin.scala) - An integer stack with O(1) time `push`, `pop`, and `min` methods.
+
+[reorderDigits](src/main/scala/reorderDigits.scala) - Takes an array of integers and a string of "asc" or "desc" and returns the array with the digits within each element sorted ascending or descending, respectively.
+
+[canPartition](src/main/scala/canPartition.scala) - Determines if one element of the array can be the product of all of the other digits in the array.
